@@ -5,18 +5,18 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828764046'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828764046'] 
+global.owner = ['6285779150501'] 
+global.mods = ['6285779150501'] 
+global.prems = ['6285779150501'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'Zifabotz_offc1'
-global.numberowner = '6285828764046'
-global.instagram = 'https://instagram.com/zalfapontianak'
+global.nameowner = 'HanzBotz_offc1'
+global.numberowner = '6285779150501'
+global.instagram = 'https://instagram.com/rangfa_botz'
 global.github = 'https://github.com/Botynyakamu'
-global.dana = '085828764046'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.dana = '6285779150501'
+global.pulsa = '6285779150501'
+global.gopay = '6285779150501'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
@@ -35,7 +35,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
 global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm3 = 'ᯤ rangga 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -46,7 +46,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.author = '@rangga'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
